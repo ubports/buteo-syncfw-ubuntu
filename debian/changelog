@@ -1,3 +1,9 @@
+buteo-syncfw (0.8.6+ubports) UNRELEASED; urgency=medium
+
+  * No change rebuild for ubports xenial repo
+
+ -- Dan Chapman <dan@ubports.com>  Sun, 07 Jan 2018 09:28:23 +0000
+
 buteo-syncfw (0.8.5+16.10.20160818-0ubuntu1) yakkety; urgency=medium
 
   [ Ken VanDine ]
